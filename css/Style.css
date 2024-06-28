@@ -1,0 +1,412 @@
+body{
+    background-color:darkcyan;
+}
+
+#titulo1{
+    text-align: center;
+    background-color: darkgray;
+    border: 20px beige outset;
+    border-width: 30px;
+    border-radius: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+h2{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+p{
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.intro{
+    margin: 20px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+
+#texto{
+  
+    text-align: justify;
+    flex-direction: column;
+
+}
+.introduccion{
+    display: block;
+    text-align: center;
+    margin-bottom: 2px;;
+    margin-right: 20px;
+    
+}
+
+#subtitulo{
+    line-height: 100px;
+    margin-left: 10px;
+}
+
+#video{
+    margin-bottom: 40px;
+    border-radius: 40px;
+}
+
+
+
+
+.marca1{
+    background-color:rgba(220, 206, 206, 0.893);
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca2{
+    background-color:rgba(220, 206, 206, 0.893);
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca3{
+    background-color:darkgrey;
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca4{
+    background-color:rgba(220, 206, 206, 0.893);
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca5{
+    background-color:darkgrey;
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca6{
+    background-color:rgba(220, 206, 206, 0.893);
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca7{
+    background-color:darkgrey;
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca8{
+    background-color:rgba(220, 206, 206, 0.893);
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca9{
+    background-color:darkgrey;
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca10{
+    background-color:rgba(220, 206, 206, 0.893);
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca11{
+    background-color:darkgrey;
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca12{
+    background-color:rgba(220, 206, 206, 0.893);
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca13{
+    background-color:darkgrey;
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca14{
+    background-color:rgba(220, 206, 206, 0.893);
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca15{
+    background-color:darkgrey;
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca16{
+    background-color:rgba(220, 206, 206, 0.893);
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca17{
+    background-color:darkgrey;
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca18{
+    background-color:rgba(220, 206, 206, 0.893);
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca19{
+    background-color:darkgrey;
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+
+.marca20{
+    background-color:rgba(220, 206, 206, 0.893);
+    border-radius: 20px;
+    border: 20px #67a7a5 solid;
+    margin-bottom: 30px;
+}
+#coca{
+    width: 400px;
+    height: 250px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    
+}
+
+.foto1{
+    display: block;
+    text-align: center;
+}
+
+#mc{
+    width: 400px;
+    height: 250px;   
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 30px
+}
+
+.foto2{
+    display: block;
+    text-align: center;
+}
+
+#apple{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 30px
+}
+
+.foto3{
+    display: block;
+    text-align: center;
+}
+
+#nike{
+    width: 300px;
+    height: 150px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+}
+
+.foto4{
+    margin-top: 50px;
+    display: block;
+    text-align: center;
+}
+
+#starbucks{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.foto12{
+    display: block;
+    text-align: center;
+}
+
+#pepsi{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.foto5{
+    display: block;
+    text-align: center;
+}
+
+#facebook{
+    width: 250px;
+    height: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.foto6{
+    display: block;
+    text-align: center;
+}
+
+#google{
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.foto13{
+    display: block;
+    text-align: center;
+}
+
+.foto14{
+    display: block;
+    text-align: center;
+}
+.foto7{
+    display: block;
+    text-align: center;
+}
+
+#amazon{
+    width: 400px;
+}
+
+.foto8{
+    display: block;
+    text-align: center;
+}
+
+.foto9{
+    display: block;
+    text-align: center;
+}
+
+#adidas{
+    width: 350px;
+    margin-bottom: 30px;
+}
+.foto10{
+    display: block;
+    text-align: center;
+}
+
+.foto11{
+    display: block;
+    text-align: center;
+}
+
+#adobe{
+    width: 400px;
+    border-radius: 30px
+}
+.foto15{
+    display: block;
+    text-align: center;
+}
+
+#samsung{
+    width: 400px;
+    border-radius: 1000px;
+}
+
+.foto16{
+    display: block;
+    text-align: center;
+   
+}
+
+#ibm{
+    width: 400px;
+}
+
+.foto17{
+    display: block;
+    text-align: center;
+}
+
+
+#atyt{
+    width: 300px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.foto18{
+    display: block;
+    text-align: center;
+}
+
+#mercedes{
+    width: 260px;
+}
+
+.foto19{
+    display: block;
+    text-align: center;
+}
+
+#walmart{
+    width: 400px;
+}
+
+.foto20{
+    display: block;
+    text-align: center;
+}
+
+#credito{
+    margin: auto;
+}
+
+.final{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    border: 5px black solid;
+    border-radius: 15px;
+    display: flex;
+    
+}
+
+#img{
+    width: 100px;
+    margin: auto;
+}
